@@ -6,3 +6,4 @@ This is the code for "Dynamics Resource Allocation via Objective Function Approx
 
 2. Simulation code for the numerical Examples, queueing systems and inventory systems, are also included
 
+3. The animation.gif demonstrates how adaptive selection is conducted in the queueing example. At each step, the algorithm makes its decision based on the local information, and the approximate objective function. 
